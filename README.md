@@ -3,7 +3,7 @@
 #### Author
 Winnie Diana Anyango
 ## Description
-This is my portfolio landing page with details on everything about me
+This is my portfolio landing page with details on everything about me from education, to work-experience, to hobbies, likes and dislikes
 ### Prerequisites
 You need to have git installed
 You can install it with the following command in your terminal
@@ -15,8 +15,6 @@ To access this project on your local files, you can clone it using these steps
 1. This will clone the repository into your local folder
 ### Live Site
 View [live]
-### Licence
-This project is under the  [MIT](LICENSE) license
 ## Known Bugs
 {No known bugs.}
 ## Technologies Used
@@ -25,5 +23,5 @@ This project is under the  [MIT](LICENSE) license
 1. Git
 ## Support and contact details
 For inquiries or contributions, you can reach me at winnie.anyango@student.moringaschool.com
-### Licence
+### License
 This project is under the [MIT](LICENSE) license
