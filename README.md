@@ -14,14 +14,14 @@ To access this project on your local files, you can clone it using these steps
 1. Use this command to clone `$ git clone https://github.com/winniediana4/portfolio-landing-page.git`
 1. This will clone the repository into your local folder
 ### Live Site
-View [live]
-## Known Bugs
+View [live](https://winniediana4.github.io/Happy-Trails-Travel-Agency/) 
+## Known Bug
 {No known bugs.}
 ## Technologies Used
 1. HTML
 1. CSS
 1. Git
 ## Support and contact details
-For inquiries or contributions, you can reach me at winnie.anyango@student.moringaschool.com
+For inquiries, comments or contributions, you can reach me at winnie.anyango@student.moringaschool.com
 ### License
 This project is under the [MIT](LICENSE) license
