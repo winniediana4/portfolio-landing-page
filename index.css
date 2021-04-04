@@ -1,0 +1,29 @@
+body{
+  background-image: url(images/phoenixx.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: rgb(214, 211, 211);
+  font-size: 20px;
+  opacity: 0.85;
+}
+h1, h2{
+  text-align: center;
+  font-size: x-large;
+  color: whitesmoke;
+}
+.text{
+  text-align: center;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* #about{
+  display: flex;
+  position: absolute;
+  text-align: justify;
+} */
+h2, h3, th, a{
+  color: whitesmoke;
+}
