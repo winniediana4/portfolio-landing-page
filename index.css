@@ -43,3 +43,9 @@ color: rgb(211, 152, 2);
 a:hover{
   color: rgb(106, 184, 187);
 }
+@media screen and (min-width: 480px) {
+  body {
+      background-color: black;
+      color: white;
+  }
+}
